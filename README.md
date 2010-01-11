@@ -12,9 +12,12 @@ INSTRUCTIONS
 2. Copy the Property List Tools.osax file to ~/Library/ScriptingAdditions 
 	 (create that directory if it doesn't exist).
 	 Source: http://www.latenightsw.com/freeware/PListTools/index.html
-3. _Optional:_ To ensure all of the property list files are in place for your snaps,
-   export all of them to Ember (you'll need to set up an account). If you
-	 run into your upload limit, just keep pressing OK (sorry).
+3. To ensure all of the property list files are in place for your snaps,
+   export all of them as Snap Bundles:
+		1. Highlight all of your snaps in LittleSnapper. Go to File > Export Images.
+		2. Make sure you pick "Snap Bundle" as the File Type.
+		3. Once this finishes, you can delete the exported files. The export was
+		   only necessary to force a rebuild of your metadata.
 4. Run the littlesnapper\_to\_evernote.scpt script. 
 5. Pick your library file and notebook name. You can leave the notebook
    name blank and it will use the default. If you enter a new notebook name
