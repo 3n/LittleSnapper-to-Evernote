@@ -26,3 +26,15 @@ INSTRUCTIONS
    to a syncing notebook later (in batches if necessary). 
 6. Let the script run through - you'll see the notes being added in real time.
    It took a few hours for my 2000+ snaps to be brought into Evernote.
+
+NOTES
+-----
+
+You may want to check Evernote once and a while, as it will stop the export's
+progress if you try to import a file over 25MB, which is not allowed. Just
+press OK on the dialog box and the export will continue.
+
+TODO
+----
+
+Let user know if there's a file without an info.plist, ask them to do step 3.
