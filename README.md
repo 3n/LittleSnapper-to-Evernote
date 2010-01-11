@@ -24,7 +24,7 @@ INSTRUCTIONS
 		2. Make sure you pick "Snap Bundle" as the File Type.
 		3. Once this finishes, you can delete the exported files. The export was
 		   only necessary to force a rebuild of your metadata.
-4. Run the littlesnapper\_to\_evernote.scpt script. 
+4. Run the "Run Me" application.
 5. Pick your library file and notebook name. You can leave the notebook
    name blank and it will use the default. If you enter a new notebook name
    it will be created. If you don't want to run into your Syncing limits, 
