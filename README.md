@@ -4,6 +4,13 @@ Evernote does everything LittleSnapper does, and it syncs to the web and all
 your devices. It also won't drop your tags, has better methods for adding
 images and does OCR.
 
+DETAILS
+-------
+This script will move all of your LittleSnapper snaps into Evernote,
+including the rating, tags, title, date created and type. It makes
+a tag in the form "****" for a four star snap, etc. It adds a tag
+"websnap" to anything that was a websnap in LittleSnapper.
+
 
 INSTRUCTIONS
 ------------
