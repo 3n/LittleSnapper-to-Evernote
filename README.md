@@ -14,7 +14,6 @@ a tag in the form "****" for a four star snap, etc. It adds a tag
 
 INSTRUCTIONS
 ------------
-
 1. Download all of these files. 
 2. Copy the Property List Tools.osax file to ~/Library/ScriptingAdditions 
 	 (create that directory if it doesn't exist).
@@ -36,12 +35,10 @@ INSTRUCTIONS
 
 NOTES
 -----
-
 You may want to check Evernote once and a while, as it will stop the export's
 progress if you try to import a file over 25MB, which is not allowed. Just
 press OK on the dialog box and the export will continue.
 
 TODO
 ----
-
 Let user know if there's a file without an info.plist, ask them to do step 3.
