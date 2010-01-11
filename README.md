@@ -41,4 +41,5 @@ press OK on the dialog box and the export will continue.
 
 TODO
 ----
-Let user know if there's a file without an info.plist, ask them to do step 3.
+* Let user know if there's a file without an info.plist, ask them to do step 3.
+* Make a parent script that copies over the plist lib then runs the main script.
